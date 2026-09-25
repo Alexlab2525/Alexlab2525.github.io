@@ -216,9 +216,9 @@ and simulating real-world improvement — all point to the same conclusion:
 
 For hospital leaders and policymakers, the implications are direct:
 
-- ✅ **Prioritise early mobilisation and physiotherapy programmes**
-- ✅ **Monitor cost efficiency as a system-level quality signal**
-- ✅ **Recognise that infection metrics alone are not a reliable proxy for
+- **Prioritise early mobilisation and physiotherapy programmes**
+- **Monitor cost efficiency as a system-level quality signal**
+- **Recognise that infection metrics alone are not a reliable proxy for
 >   discharge performance**
 
 This does not mean infection control is unimportant — reducing infections
