@@ -72,7 +72,7 @@ When comparing the clinical profiles of these three groups, a clear and
 > ones that **get patients moving again.**
 
 ![Box plots comparing mobility improvement scores across the three hospital
-performance groups](assets/images/fig_boxplots_features.png)
+performance groups](q1.png)
 *Top-performing hospitals show nearly 54% higher mobility improvement
 scores than low-performing ones.*
 
@@ -96,7 +96,7 @@ Random Forest had been relying on hospital size as a shortcut — not on
 genuine clinical signals.
 
 ![Model accuracy comparison showing both models outperform the random
-baseline of 33.3%](assets/images/fig_model_comparison.png)
+baseline of 33.3%](q2.png)
 *Both models outperform the random baseline. The Logistic Regression model
 remains stable even after removing size-related features.*
 
@@ -123,7 +123,7 @@ visible and widely reported** hospital quality metrics.
 
 ![Feature importances from the quality-only model showing MSPB score and
 mobility at the top, infection rates at the
-bottom](assets/images/fig_quality_model_comparison.png)
+bottom](q3.png)
 *Left panel: After removing size-related features, cost efficiency and
 mobility improvement emerge as the decisive quality signals. Infection
 rates rank last.*
@@ -172,7 +172,7 @@ from worst to best in class produced zero prediction flips. The hospital
 remained *Worse* throughout.
 
 ![Side-by-side simulation showing outcome flips for rehabilitation vs.
-infection control strategies](assets/images/fig_improvement_simulation.png)
+infection control strategies](q4.png)
 *Left: Rehabilitation investment flips performance twice. Right: Infection
 control investment changes nothing.*
 
@@ -230,4 +230,4 @@ patients home, the data points clearly elsewhere.**
 *Data source: Centers for Medicare & Medicaid Services (CMS), LTCH Quality
 Reporting Program. 290 hospitals included in analysis. Full methodology,
 code, and data available in the
-[project notebook](link-to-your-notebook).*
+[project notebook]([link-to-your-notebook](https://github.com/Alexlab2525/Data-Science-Udacity/blob/main/Data%20Science.ipynb)).*
