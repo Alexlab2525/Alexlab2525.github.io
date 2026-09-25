@@ -230,4 +230,5 @@ patients home, the data points clearly elsewhere.**
 *Data source: Centers for Medicare & Medicaid Services (CMS), LTCH Quality
 Reporting Program. 290 hospitals included in analysis. Full methodology,
 code, and data available in the
-[project notebook]([link-to-your-notebook](https://github.com/Alexlab2525/Data-Science-Udacity/blob/main/Data%20Science.ipynb)).*
+[project notebook]([link-to-your-notebook]([https://github.com/Alexlab2525/Data-Science-Udacity/blob/main/Data%20Science.ipynb](https://github.com/Alexlab2525/Data-Science-Udacity/blob/main/Data%20Science_v2.ipynb
+)).*
